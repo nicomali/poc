@@ -21,7 +21,7 @@ env:
   ICR_NAMESPACE: ${{ secrets.ICR_NAMESPACE }}
   REGISTRY_HOSTNAME: uk.icr.io
   IMAGE_NAME: test-repo
-  IKS_CLUSTER: c5rhvcpf09t3kap6q2hg
+  IKS_CLUSTER: c6jlf6ef0g1na6eoopqg
   DEPLOYMENT_NAME: test-app-1
   PORT: 4000
 
