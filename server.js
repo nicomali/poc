@@ -10,5 +10,5 @@ app.use(
 app.listen(process.env.PORT || 4000, () => console.log("Server is running"));
 
 app.get("/", (req, res) => {
-  res.status(200).send("¡Hola, Martu!");
+  res.status(200).send("¡Hola, Martu! Sí, ya va");
 });
